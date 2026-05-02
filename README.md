@@ -13,3 +13,4 @@ Current features:
 
   <img width="797" height="788" alt="image" src="https://github.com/user-attachments/assets/7f7f60a1-7983-4c44-bfc5-8bb67b0eb101" />
 
+<img width="799" height="895" alt="image" src="https://github.com/user-attachments/assets/7863c34c-c7ff-4ec9-9452-6ca068849770" />
